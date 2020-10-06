@@ -23,3 +23,12 @@ C:\github\Betting\BettingData\obj\Debug\postdeploy.sql
 C:\github\Betting\BettingData\obj\Debug\predeploy.sql
 C:\github\Betting\BettingData\obj\Debug\BettingData.dll
 C:\github\Betting\BettingData\obj\Debug\BettingData.pdb
+C:\Users\sifiso\Desktop\Betting\BettingData\bin\Debug\BettingData.dacpac
+C:\Users\sifiso\Desktop\Betting\BettingData\bin\Debug\BettingData.dll
+C:\Users\sifiso\Desktop\Betting\BettingData\bin\Debug\BettingData.pdb
+C:\Users\sifiso\Desktop\Betting\BettingData\obj\Debug\Model.xml
+C:\Users\sifiso\Desktop\Betting\BettingData\obj\Debug\refactor.xml
+C:\Users\sifiso\Desktop\Betting\BettingData\obj\Debug\postdeploy.sql
+C:\Users\sifiso\Desktop\Betting\BettingData\obj\Debug\predeploy.sql
+C:\Users\sifiso\Desktop\Betting\BettingData\obj\Debug\BettingData.dll
+C:\Users\sifiso\Desktop\Betting\BettingData\obj\Debug\BettingData.pdb

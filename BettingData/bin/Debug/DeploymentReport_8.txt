@@ -1,0 +1,31 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Event] (Table)
+       [dbo].[EventDetail] (Table)
+       [dbo].[EventDetailStatus] (Table)
+       [dbo].[Tournament] (Table)
+       [dbo].[FK_Event_TournamentID] (Foreign Key)
+       [dbo].[FK_EventDetail_Event] (Foreign Key)
+       [dbo].[FK_EventDetail_EventDetailStatus] (Foreign Key)
+       [dbo].[pr_AddEvent] (Procedure)
+       [dbo].[pr_AddEventDetail] (Procedure)
+       [dbo].[pr_AddTournament] (Procedure)
+       [dbo].[pr_DeleteEvent] (Procedure)
+       [dbo].[pr_DeleteEventDetail] (Procedure)
+       [dbo].[pr_DeleteTournament] (Procedure)
+       [dbo].[pr_GetTournament] (Procedure)
+       [dbo].[pr_UpdateEvent] (Procedure)
+       [dbo].[pr_UpdateEventDetails] (Procedure)
+       [dbo].[pr_UpdateTournament] (Procedure)
+
+** Supporting actions

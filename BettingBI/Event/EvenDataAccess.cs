@@ -17,6 +17,14 @@ namespace BettingBI
             connectionManager = connection;
         }
 
+        public async Task<IEnumerable<Event>> GetEventsAsync()
+        {
+            using (var db = connectionManager.DefaultConnection())
+            {
+                return await db.QueryAsync<Event>("dbo.pr_GetEvent",
+                   commandType: CommandType.StoredProcedure);
+            }
+        }
         public async Task<int> AddEventAsync(Event model)
         {
             int Id = 0;

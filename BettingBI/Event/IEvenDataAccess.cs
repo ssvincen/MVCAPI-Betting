@@ -9,6 +9,7 @@ namespace BettingBI
 {
     public interface IEvenDataAccess
     {
+        Task<IEnumerable<Event>> GetEventsAsync();
         Task<int> AddEventAsync(Event model );
         Task<bool> UpdateEventAsync(Event model);
         Task<bool> DeleteEventAsync(int eventID);

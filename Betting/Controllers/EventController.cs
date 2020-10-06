@@ -10,6 +10,7 @@ using System.Web.Http;
 
 namespace Betting.Controllers
 {
+    //[Authorize]
     [RoutePrefix("Event")]
     public class EventController : ApiController
     {
@@ -20,6 +21,15 @@ namespace Betting.Controllers
             evenDataAccess = eventData;
             eventDetailsDataAccess = eventDetailsData;
         }
+
+        [HttpGet]
+        [Route("GetEvent")]
+        public async Task<IEnumerable<Event>> GetEvents()
+        {
+            var data = await evenDataAccess.GetEventsAsync();
+            return data;
+        }
+
 
         /// <summary>
         /// Create a new Tournament.
@@ -35,7 +45,7 @@ namespace Betting.Controllers
                 return BadRequest($"{nameof(model)} cannot be null");
             }
             var data = await evenDataAccess.AddEventAsync(model);
-            return Ok();
+            return Ok(data);
         }
 
         [HttpPatch]

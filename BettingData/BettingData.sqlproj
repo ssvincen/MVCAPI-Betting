@@ -76,6 +76,7 @@
     <Build Include="StoredProcedure\dbo.pr_UpdateEventDetail.sql" />
     <Build Include="StoredProcedure\dbo.pr_DeleteEventDetail.sql" />
     <Build Include="StoredProcedure\dbo.pr_GetTournament.sql" />
+    <Build Include="StoredProcedure\dbo.pr_GetEvent.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="BettingData.refactorlog" />

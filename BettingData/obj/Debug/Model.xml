@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="BettingData.dll" />
-			<Metadata Name="FileName" Value="C:\GITHUB\BETTING\BETTINGDATA\OBJ\DEBUG\BETTINGDATA.DLL" />
+			<Metadata Name="FileName" Value="C:\USERS\SIFISO\DESKTOP\BETTING\BETTINGDATA\OBJ\DEBUG\BETTINGDATA.DLL" />
 			<Metadata Name="AssemblyName" Value="BettingData" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="C:\github\Betting\BettingData\obj\Debug\BettingData.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="C:\Users\sifiso\Desktop\Betting\BettingData\obj\Debug\BettingData.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>
@@ -1188,6 +1188,94 @@ END]]></Value>
 				<Property Name="StartLine" Value="1" />
 				<Property Name="StartColumn" Value="1" />
 				<Property Name="HeaderContents" Value="CREATE PROCEDURE [dbo].[pr_DeleteTournament]&#xD;&#xA;&#x9;@IsDeleted BIT OUT,&#xD;&#xA;&#x9;@TournamentID BIGINT&#xD;&#xA;AS" />
+			</Annotation>
+		</Element>
+		<Element Type="SqlProcedure" Name="[dbo].[pr_GetEvent]">
+			<Property Name="BodyScript">
+				<Value><![CDATA[
+BEGIN
+	SET NOCOUNT ON;
+	SELECT [EventID] , 
+           [TournamentID] , 
+           [EventName] , 
+           [EventNumber] , 
+           [EventDateTime] , 
+           [EventEndDateTime] , 
+           [AutoClose]
+	FROM dbo.[Event]
+END]]></Value>
+			</Property>
+			<Property Name="IsAnsiNullsOn" Value="True" />
+			<Relationship Name="BodyDependencies">
+				<Entry>
+					<References Name="[dbo].[Event]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Event].[EventID]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Event].[TournamentID]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Event].[EventName]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Event].[EventNumber]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Event].[EventDateTime]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Event].[EventEndDateTime]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Event].[AutoClose]" />
+				</Entry>
+			</Relationship>
+			<Relationship Name="Schema">
+				<Entry>
+					<References ExternalSource="BuiltIns" Name="[dbo]" />
+				</Entry>
+			</Relationship>
+			<Annotation Type="SysCommentsObjectAnnotation">
+				<Property Name="Length" Value="286" />
+				<Property Name="StartLine" Value="1" />
+				<Property Name="StartColumn" Value="1" />
+				<Property Name="HeaderContents" Value="CREATE PROCEDURE [dbo].[pr_GetEvent]&#xD;&#xA;AS" />
+			</Annotation>
+		</Element>
+		<Element Type="SqlProcedure" Name="[dbo].[pr_GetTournament]">
+			<Property Name="BodyScript">
+				<Value><![CDATA[
+BEGIN
+	SET NOCOUNT ON;
+	SELECT TournamentID,
+		   TournamentName
+	FROM dbo.Tournament
+END]]></Value>
+			</Property>
+			<Property Name="IsAnsiNullsOn" Value="True" />
+			<Relationship Name="BodyDependencies">
+				<Entry>
+					<References Name="[dbo].[Tournament]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Tournament].[TournamentID]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Tournament].[TournamentName]" />
+				</Entry>
+			</Relationship>
+			<Relationship Name="Schema">
+				<Entry>
+					<References ExternalSource="BuiltIns" Name="[dbo]" />
+				</Entry>
+			</Relationship>
+			<Annotation Type="SysCommentsObjectAnnotation">
+				<Property Name="Length" Value="143" />
+				<Property Name="StartLine" Value="1" />
+				<Property Name="StartColumn" Value="1" />
+				<Property Name="HeaderContents" Value="CREATE PROCEDURE [dbo].[pr_GetTournament]&#xD;&#xA;&#xD;&#xA;AS" />
 			</Annotation>
 		</Element>
 		<Element Type="SqlProcedure" Name="[dbo].[pr_UpdateEvent]">

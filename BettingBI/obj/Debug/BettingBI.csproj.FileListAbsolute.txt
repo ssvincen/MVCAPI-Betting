@@ -26,3 +26,13 @@ C:\github\Betting\BettingBI\obj\Debug\BettingBI.csproj.CoreCompileInputs.cache
 C:\github\Betting\BettingBI\obj\Debug\BettingBI.csproj.CopyComplete
 C:\github\Betting\BettingBI\obj\Debug\BettingBI.dll
 C:\github\Betting\BettingBI\obj\Debug\BettingBI.pdb
+C:\Users\sifiso\Desktop\Betting\BettingBI\bin\Debug\BettingBI.dll
+C:\Users\sifiso\Desktop\Betting\BettingBI\bin\Debug\BettingBI.pdb
+C:\Users\sifiso\Desktop\Betting\BettingBI\bin\Debug\BettingBO.dll
+C:\Users\sifiso\Desktop\Betting\BettingBI\bin\Debug\Dapper.dll
+C:\Users\sifiso\Desktop\Betting\BettingBI\bin\Debug\BettingBO.pdb
+C:\Users\sifiso\Desktop\Betting\BettingBI\bin\Debug\Dapper.xml
+C:\Users\sifiso\Desktop\Betting\BettingBI\obj\Debug\BettingBI.csproj.CoreCompileInputs.cache
+C:\Users\sifiso\Desktop\Betting\BettingBI\obj\Debug\BettingBI.csproj.CopyComplete
+C:\Users\sifiso\Desktop\Betting\BettingBI\obj\Debug\BettingBI.dll
+C:\Users\sifiso\Desktop\Betting\BettingBI\obj\Debug\BettingBI.pdb
