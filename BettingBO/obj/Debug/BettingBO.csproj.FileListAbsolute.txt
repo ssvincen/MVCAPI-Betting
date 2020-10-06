@@ -1,0 +1,12 @@
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingBO\bin\Debug\BettingBO.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingBO\bin\Debug\BettingBO.pdb
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingBO\obj\Debug\BettingBO.csprojAssemblyReference.cache
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingBO\obj\Debug\BettingBO.csproj.CoreCompileInputs.cache
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingBO\obj\Debug\BettingBO.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingBO\obj\Debug\BettingBO.pdb
+D:\Betting\BettingBO\bin\Debug\BettingBO.dll
+D:\Betting\BettingBO\bin\Debug\BettingBO.pdb
+D:\Betting\BettingBO\obj\Debug\BettingBO.csprojAssemblyReference.cache
+D:\Betting\BettingBO\obj\Debug\BettingBO.csproj.CoreCompileInputs.cache
+D:\Betting\BettingBO\obj\Debug\BettingBO.dll
+D:\Betting\BettingBO\obj\Debug\BettingBO.pdb

@@ -1,0 +1,25 @@
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingData\bin\Debug\BettingData.dacpac
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingData\bin\Debug\BettingData.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingData\bin\Debug\BettingData.pdb
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingData\obj\Debug\BettingData.sqlprojAssemblyReference.cache
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingData\obj\Debug\BettingData.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingData\obj\Debug\BettingData.pdb
+D:\Betting\BettingData\bin\Debug\BettingData.dacpac
+D:\Betting\BettingData\bin\Debug\BettingData.dll
+D:\Betting\BettingData\bin\Debug\BettingData.pdb
+D:\Betting\BettingData\obj\Debug\BettingData.sqlprojAssemblyReference.cache
+D:\Betting\BettingData\obj\Debug\BettingData.dll
+D:\Betting\BettingData\obj\Debug\BettingData.pdb
+D:\Betting\BettingData\obj\Debug\Model.xml
+D:\Betting\BettingData\obj\Debug\refactor.xml
+D:\Betting\BettingData\obj\Debug\postdeploy.sql
+D:\Betting\BettingData\obj\Debug\predeploy.sql
+C:\github\Betting\BettingData\bin\Debug\BettingData.dacpac
+C:\github\Betting\BettingData\bin\Debug\BettingData.dll
+C:\github\Betting\BettingData\bin\Debug\BettingData.pdb
+C:\github\Betting\BettingData\obj\Debug\Model.xml
+C:\github\Betting\BettingData\obj\Debug\refactor.xml
+C:\github\Betting\BettingData\obj\Debug\postdeploy.sql
+C:\github\Betting\BettingData\obj\Debug\predeploy.sql
+C:\github\Betting\BettingData\obj\Debug\BettingData.dll
+C:\github\Betting\BettingData\obj\Debug\BettingData.pdb

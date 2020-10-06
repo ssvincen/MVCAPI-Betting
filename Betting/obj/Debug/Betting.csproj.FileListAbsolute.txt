@@ -1,0 +1,395 @@
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\obj\Debug\Betting.csprojAssemblyReference.cache
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\obj\Debug\Betting.csproj.CoreCompileInputs.cache
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Betting.dll.config
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Betting.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Betting.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Betting.pdb
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\csc.exe
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\csc.exe.config
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\csc.rsp
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\csi.exe
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\csi.exe.config
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\csi.rsp
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.AppContext.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Console.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Net.Http.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\vbc.exe
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\vbc.exe.config
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\vbc.rsp
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Antlr3.Runtime.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\EntityFramework.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\EntityFramework.SqlServer.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.Security.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Newtonsoft.Json.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Owin.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Swashbuckle.Core.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Net.Http.Formatting.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.Helpers.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.Http.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.Http.Owin.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.Http.WebHost.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.Mvc.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.Optimization.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.Razor.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.WebPages.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\WebActivatorEx.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\WebGrease.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Newtonsoft.Json.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Net.Http.Formatting.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.Helpers.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.Http.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.Http.WebHost.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.Mvc.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.Optimization.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.Razor.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.WebPages.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Antlr3.Runtime.pdb
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\EntityFramework.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\EntityFramework.SqlServer.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.Security.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Web.Http.Owin.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\obj\Debug\Betting.csproj.CopyComplete
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\obj\Debug\Betting.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\obj\Debug\Betting.pdb
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Unity.Abstractions.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Unity.Container.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Unity.Abstractions.pdb
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Unity.Container.pdb
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\BettingBI.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\Unity.WebApi.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\Betting\bin\BettingBI.pdb
+D:\Betting\Betting\bin\Betting.dll.config
+D:\Betting\Betting\bin\Betting.xml
+D:\Betting\Betting\bin\Betting.dll
+D:\Betting\Betting\bin\Betting.pdb
+D:\Betting\Betting\bin\roslyn\csc.exe
+D:\Betting\Betting\bin\roslyn\csc.exe.config
+D:\Betting\Betting\bin\roslyn\csc.rsp
+D:\Betting\Betting\bin\roslyn\csi.exe
+D:\Betting\Betting\bin\roslyn\csi.exe.config
+D:\Betting\Betting\bin\roslyn\csi.rsp
+D:\Betting\Betting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Betting\Betting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Betting\Betting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Betting\Betting\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Betting\Betting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Betting\Betting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Betting\Betting\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Betting\Betting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Betting\Betting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Betting\Betting\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Betting\Betting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Betting\Betting\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Betting\Betting\bin\roslyn\System.AppContext.dll
+D:\Betting\Betting\bin\roslyn\System.Collections.Immutable.dll
+D:\Betting\Betting\bin\roslyn\System.Console.dll
+D:\Betting\Betting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Betting\Betting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Betting\Betting\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Betting\Betting\bin\roslyn\System.Globalization.Calendars.dll
+D:\Betting\Betting\bin\roslyn\System.IO.Compression.dll
+D:\Betting\Betting\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Betting\Betting\bin\roslyn\System.IO.FileSystem.dll
+D:\Betting\Betting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Betting\Betting\bin\roslyn\System.Net.Http.dll
+D:\Betting\Betting\bin\roslyn\System.Net.Sockets.dll
+D:\Betting\Betting\bin\roslyn\System.Reflection.Metadata.dll
+D:\Betting\Betting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Betting\Betting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Betting\Betting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Betting\Betting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Betting\Betting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Betting\Betting\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Betting\Betting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Betting\Betting\bin\roslyn\System.ValueTuple.dll
+D:\Betting\Betting\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Betting\Betting\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Betting\Betting\bin\roslyn\System.Xml.XPath.dll
+D:\Betting\Betting\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Betting\Betting\bin\roslyn\vbc.exe
+D:\Betting\Betting\bin\roslyn\vbc.exe.config
+D:\Betting\Betting\bin\roslyn\vbc.rsp
+D:\Betting\Betting\bin\roslyn\VBCSCompiler.exe
+D:\Betting\Betting\bin\roslyn\VBCSCompiler.exe.config
+D:\Betting\Betting\bin\Antlr3.Runtime.dll
+D:\Betting\Betting\bin\BettingBI.dll
+D:\Betting\Betting\bin\BettingBO.dll
+D:\Betting\Betting\bin\EntityFramework.dll
+D:\Betting\Betting\bin\EntityFramework.SqlServer.dll
+D:\Betting\Betting\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Betting\Betting\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Betting\Betting\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Betting\Betting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Betting\Betting\bin\Microsoft.Owin.dll
+D:\Betting\Betting\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Betting\Betting\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Betting\Betting\bin\Microsoft.Owin.Security.dll
+D:\Betting\Betting\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Betting\Betting\bin\Microsoft.Owin.Security.Google.dll
+D:\Betting\Betting\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Betting\Betting\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Betting\Betting\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Betting\Betting\bin\Microsoft.Web.Infrastructure.dll
+D:\Betting\Betting\bin\Newtonsoft.Json.dll
+D:\Betting\Betting\bin\Owin.dll
+D:\Betting\Betting\bin\Swashbuckle.Core.dll
+D:\Betting\Betting\bin\System.Net.Http.Formatting.dll
+D:\Betting\Betting\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Betting\Betting\bin\System.Web.Helpers.dll
+D:\Betting\Betting\bin\System.Web.Http.dll
+D:\Betting\Betting\bin\System.Web.Http.Owin.dll
+D:\Betting\Betting\bin\System.Web.Http.WebHost.dll
+D:\Betting\Betting\bin\System.Web.Mvc.dll
+D:\Betting\Betting\bin\System.Web.Optimization.dll
+D:\Betting\Betting\bin\System.Web.Razor.dll
+D:\Betting\Betting\bin\System.Web.WebPages.Deployment.dll
+D:\Betting\Betting\bin\System.Web.WebPages.dll
+D:\Betting\Betting\bin\System.Web.WebPages.Razor.dll
+D:\Betting\Betting\bin\Unity.Abstractions.dll
+D:\Betting\Betting\bin\Unity.Container.dll
+D:\Betting\Betting\bin\Unity.WebApi.dll
+D:\Betting\Betting\bin\WebActivatorEx.dll
+D:\Betting\Betting\bin\WebGrease.dll
+D:\Betting\Betting\bin\Dapper.dll
+D:\Betting\Betting\bin\System.Threading.Tasks.Extensions.dll
+D:\Betting\Betting\bin\BettingBI.pdb
+D:\Betting\Betting\bin\BettingBO.pdb
+D:\Betting\Betting\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Betting\Betting\bin\Newtonsoft.Json.xml
+D:\Betting\Betting\bin\System.Net.Http.Formatting.xml
+D:\Betting\Betting\bin\System.Web.Helpers.xml
+D:\Betting\Betting\bin\System.Web.Http.xml
+D:\Betting\Betting\bin\System.Web.Http.WebHost.xml
+D:\Betting\Betting\bin\System.Web.Mvc.xml
+D:\Betting\Betting\bin\System.Web.Optimization.xml
+D:\Betting\Betting\bin\System.Web.Razor.xml
+D:\Betting\Betting\bin\System.Web.WebPages.xml
+D:\Betting\Betting\bin\System.Web.WebPages.Deployment.xml
+D:\Betting\Betting\bin\System.Web.WebPages.Razor.xml
+D:\Betting\Betting\bin\Unity.Abstractions.pdb
+D:\Betting\Betting\bin\Unity.Container.pdb
+D:\Betting\Betting\bin\Antlr3.Runtime.pdb
+D:\Betting\Betting\bin\EntityFramework.xml
+D:\Betting\Betting\bin\EntityFramework.SqlServer.xml
+D:\Betting\Betting\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Betting\Betting\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Betting\Betting\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Betting\Betting\bin\Microsoft.Owin.xml
+D:\Betting\Betting\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Betting\Betting\bin\Microsoft.Owin.Security.xml
+D:\Betting\Betting\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Betting\Betting\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Betting\Betting\bin\Microsoft.Owin.Security.Google.xml
+D:\Betting\Betting\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Betting\Betting\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Betting\Betting\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Betting\Betting\bin\System.Web.Http.Owin.xml
+D:\Betting\Betting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Betting\Betting\bin\Dapper.xml
+D:\Betting\Betting\obj\Debug\Betting.csprojAssemblyReference.cache
+D:\Betting\Betting\obj\Debug\Betting.csproj.CoreCompileInputs.cache
+D:\Betting\Betting\obj\Debug\Betting.csproj.CopyComplete
+D:\Betting\Betting\obj\Debug\Betting.dll
+D:\Betting\Betting\obj\Debug\Betting.pdb
+C:\github\Betting\Betting\bin\Betting.dll.config
+C:\github\Betting\Betting\bin\Betting.xml
+C:\github\Betting\Betting\bin\Betting.dll
+C:\github\Betting\Betting\bin\Betting.pdb
+C:\github\Betting\Betting\bin\roslyn\csc.exe
+C:\github\Betting\Betting\bin\roslyn\csc.exe.config
+C:\github\Betting\Betting\bin\roslyn\csc.rsp
+C:\github\Betting\Betting\bin\roslyn\csi.exe
+C:\github\Betting\Betting\bin\roslyn\csi.exe.config
+C:\github\Betting\Betting\bin\roslyn\csi.rsp
+C:\github\Betting\Betting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\github\Betting\Betting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\github\Betting\Betting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\github\Betting\Betting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\github\Betting\Betting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\github\Betting\Betting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\github\Betting\Betting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\github\Betting\Betting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\github\Betting\Betting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\github\Betting\Betting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\github\Betting\Betting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\github\Betting\Betting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\github\Betting\Betting\bin\roslyn\System.AppContext.dll
+C:\github\Betting\Betting\bin\roslyn\System.Collections.Immutable.dll
+C:\github\Betting\Betting\bin\roslyn\System.Console.dll
+C:\github\Betting\Betting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\github\Betting\Betting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\github\Betting\Betting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\github\Betting\Betting\bin\roslyn\System.Globalization.Calendars.dll
+C:\github\Betting\Betting\bin\roslyn\System.IO.Compression.dll
+C:\github\Betting\Betting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\github\Betting\Betting\bin\roslyn\System.IO.FileSystem.dll
+C:\github\Betting\Betting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\github\Betting\Betting\bin\roslyn\System.Net.Http.dll
+C:\github\Betting\Betting\bin\roslyn\System.Net.Sockets.dll
+C:\github\Betting\Betting\bin\roslyn\System.Reflection.Metadata.dll
+C:\github\Betting\Betting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\github\Betting\Betting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\github\Betting\Betting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\github\Betting\Betting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\github\Betting\Betting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\github\Betting\Betting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\github\Betting\Betting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\github\Betting\Betting\bin\roslyn\System.ValueTuple.dll
+C:\github\Betting\Betting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\github\Betting\Betting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\github\Betting\Betting\bin\roslyn\System.Xml.XPath.dll
+C:\github\Betting\Betting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\github\Betting\Betting\bin\roslyn\vbc.exe
+C:\github\Betting\Betting\bin\roslyn\vbc.exe.config
+C:\github\Betting\Betting\bin\roslyn\vbc.rsp
+C:\github\Betting\Betting\bin\roslyn\VBCSCompiler.exe
+C:\github\Betting\Betting\bin\roslyn\VBCSCompiler.exe.config
+C:\github\Betting\Betting\bin\Antlr3.Runtime.dll
+C:\github\Betting\Betting\bin\BettingBI.dll
+C:\github\Betting\Betting\bin\BettingBO.dll
+C:\github\Betting\Betting\bin\EntityFramework.dll
+C:\github\Betting\Betting\bin\EntityFramework.SqlServer.dll
+C:\github\Betting\Betting\bin\Microsoft.AspNet.Identity.Core.dll
+C:\github\Betting\Betting\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\github\Betting\Betting\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\github\Betting\Betting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\github\Betting\Betting\bin\Microsoft.Owin.dll
+C:\github\Betting\Betting\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\github\Betting\Betting\bin\Microsoft.Owin.Security.Cookies.dll
+C:\github\Betting\Betting\bin\Microsoft.Owin.Security.dll
+C:\github\Betting\Betting\bin\Microsoft.Owin.Security.Facebook.dll
+C:\github\Betting\Betting\bin\Microsoft.Owin.Security.Google.dll
+C:\github\Betting\Betting\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\github\Betting\Betting\bin\Microsoft.Owin.Security.OAuth.dll
+C:\github\Betting\Betting\bin\Microsoft.Owin.Security.Twitter.dll
+C:\github\Betting\Betting\bin\Microsoft.Web.Infrastructure.dll
+C:\github\Betting\Betting\bin\Newtonsoft.Json.dll
+C:\github\Betting\Betting\bin\Owin.dll
+C:\github\Betting\Betting\bin\Swashbuckle.Core.dll
+C:\github\Betting\Betting\bin\System.Net.Http.Formatting.dll
+C:\github\Betting\Betting\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\github\Betting\Betting\bin\System.Web.Helpers.dll
+C:\github\Betting\Betting\bin\System.Web.Http.dll
+C:\github\Betting\Betting\bin\System.Web.Http.Owin.dll
+C:\github\Betting\Betting\bin\System.Web.Http.WebHost.dll
+C:\github\Betting\Betting\bin\System.Web.Mvc.dll
+C:\github\Betting\Betting\bin\System.Web.Optimization.dll
+C:\github\Betting\Betting\bin\System.Web.Razor.dll
+C:\github\Betting\Betting\bin\System.Web.WebPages.Deployment.dll
+C:\github\Betting\Betting\bin\System.Web.WebPages.dll
+C:\github\Betting\Betting\bin\System.Web.WebPages.Razor.dll
+C:\github\Betting\Betting\bin\Unity.Abstractions.dll
+C:\github\Betting\Betting\bin\Unity.Container.dll
+C:\github\Betting\Betting\bin\Unity.WebApi.dll
+C:\github\Betting\Betting\bin\WebActivatorEx.dll
+C:\github\Betting\Betting\bin\WebGrease.dll
+C:\github\Betting\Betting\bin\Dapper.dll
+C:\github\Betting\Betting\bin\System.Threading.Tasks.Extensions.dll
+C:\github\Betting\Betting\bin\BettingBI.pdb
+C:\github\Betting\Betting\bin\BettingBO.pdb
+C:\github\Betting\Betting\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\github\Betting\Betting\bin\Newtonsoft.Json.xml
+C:\github\Betting\Betting\bin\System.Net.Http.Formatting.xml
+C:\github\Betting\Betting\bin\System.Web.Helpers.xml
+C:\github\Betting\Betting\bin\System.Web.Http.xml
+C:\github\Betting\Betting\bin\System.Web.Http.WebHost.xml
+C:\github\Betting\Betting\bin\System.Web.Mvc.xml
+C:\github\Betting\Betting\bin\System.Web.Optimization.xml
+C:\github\Betting\Betting\bin\System.Web.Razor.xml
+C:\github\Betting\Betting\bin\System.Web.WebPages.xml
+C:\github\Betting\Betting\bin\System.Web.WebPages.Deployment.xml
+C:\github\Betting\Betting\bin\System.Web.WebPages.Razor.xml
+C:\github\Betting\Betting\bin\Unity.Abstractions.pdb
+C:\github\Betting\Betting\bin\Unity.Container.pdb
+C:\github\Betting\Betting\bin\Antlr3.Runtime.pdb
+C:\github\Betting\Betting\bin\EntityFramework.xml
+C:\github\Betting\Betting\bin\EntityFramework.SqlServer.xml
+C:\github\Betting\Betting\bin\Microsoft.AspNet.Identity.Core.xml
+C:\github\Betting\Betting\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\github\Betting\Betting\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\github\Betting\Betting\bin\Microsoft.Owin.xml
+C:\github\Betting\Betting\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\github\Betting\Betting\bin\Microsoft.Owin.Security.xml
+C:\github\Betting\Betting\bin\Microsoft.Owin.Security.Facebook.xml
+C:\github\Betting\Betting\bin\Microsoft.Owin.Security.Cookies.xml
+C:\github\Betting\Betting\bin\Microsoft.Owin.Security.Google.xml
+C:\github\Betting\Betting\bin\Microsoft.Owin.Security.Twitter.xml
+C:\github\Betting\Betting\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\github\Betting\Betting\bin\Microsoft.Owin.Security.OAuth.xml
+C:\github\Betting\Betting\bin\System.Web.Http.Owin.xml
+C:\github\Betting\Betting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\github\Betting\Betting\bin\Dapper.xml
+C:\github\Betting\Betting\obj\Debug\Betting.csprojAssemblyReference.cache
+C:\github\Betting\Betting\obj\Debug\Betting.csproj.CoreCompileInputs.cache
+C:\github\Betting\Betting\obj\Debug\Betting.csproj.CopyComplete
+C:\github\Betting\Betting\obj\Debug\Betting.dll
+C:\github\Betting\Betting\obj\Debug\Betting.pdb

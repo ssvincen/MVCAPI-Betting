@@ -1,0 +1,28 @@
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingBI\bin\Debug\BettingBI.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingBI\bin\Debug\BettingBI.pdb
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingBI\obj\Debug\BettingBI.csproj.CoreCompileInputs.cache
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingBI\obj\Debug\BettingBI.dll
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingBI\obj\Debug\BettingBI.pdb
+C:\Users\Sifiso Sikhakhane\source\repos\Betting\BettingBI\obj\Debug\BettingBI.csprojAssemblyReference.cache
+D:\Betting\BettingBI\bin\Debug\BettingBI.dll
+D:\Betting\BettingBI\bin\Debug\BettingBI.pdb
+D:\Betting\BettingBI\bin\Debug\BettingBO.dll
+D:\Betting\BettingBI\bin\Debug\Dapper.dll
+D:\Betting\BettingBI\bin\Debug\BettingBO.pdb
+D:\Betting\BettingBI\bin\Debug\Dapper.xml
+D:\Betting\BettingBI\obj\Debug\BettingBI.csprojAssemblyReference.cache
+D:\Betting\BettingBI\obj\Debug\BettingBI.csproj.CoreCompileInputs.cache
+D:\Betting\BettingBI\obj\Debug\BettingBI.csproj.CopyComplete
+D:\Betting\BettingBI\obj\Debug\BettingBI.dll
+D:\Betting\BettingBI\obj\Debug\BettingBI.pdb
+C:\github\Betting\BettingBI\bin\Debug\BettingBI.dll
+C:\github\Betting\BettingBI\bin\Debug\BettingBI.pdb
+C:\github\Betting\BettingBI\bin\Debug\BettingBO.dll
+C:\github\Betting\BettingBI\bin\Debug\Dapper.dll
+C:\github\Betting\BettingBI\bin\Debug\BettingBO.pdb
+C:\github\Betting\BettingBI\bin\Debug\Dapper.xml
+C:\github\Betting\BettingBI\obj\Debug\BettingBI.csprojAssemblyReference.cache
+C:\github\Betting\BettingBI\obj\Debug\BettingBI.csproj.CoreCompileInputs.cache
+C:\github\Betting\BettingBI\obj\Debug\BettingBI.csproj.CopyComplete
+C:\github\Betting\BettingBI\obj\Debug\BettingBI.dll
+C:\github\Betting\BettingBI\obj\Debug\BettingBI.pdb
